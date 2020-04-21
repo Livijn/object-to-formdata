@@ -5,6 +5,7 @@ An easy way to convert nest javascript object to formdata. This package was folk
 via npm : 
 
     npm install obj2fd --save
+
 via yarn :
 
     yarn add obj2fd 
